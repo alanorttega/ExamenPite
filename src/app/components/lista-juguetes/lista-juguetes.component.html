@@ -1,0 +1,59 @@
+<div class="row mt-3">
+    <div class="col-lg-6">
+        <h1>Lista Juguetes</h1>
+    </div>
+    <div class="col-lg-6"> 
+        <button class="btn btn-primary float-end" routerLink="/agregar"> Nuevo Juguete </button>
+    </div>
+</div>
+
+<table *ngIf="ListJuguetes.length > 0" class="table table-hover mt-3">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>Nombre</td>
+            <td>Descripcion</td>
+            <td>Restricción de Edad</td>
+            <td>Fabricante</td>
+            <td>Precio</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let Juguete of ListJuguetes">
+        <td>{{Juguete.id}}</td>
+        <td>{{Juguete.nombre}}</td>
+        <td>{{Juguete.descripcion}}</td>
+        <td>{{Juguete.restriccion}}</td>
+        <td>{{Juguete.fabricante}}</td>
+        <td>{{Juguete.precio}}</td>
+        <td style="width: 10%;">
+            <button [routerLink]="['/editar', Juguete.id]" class="btn btn-primary btn-sm float-end">Editar</button>
+        </td>
+        <td style="width: 10%;">
+            <button (click)="AbrirModal(ModalConfirmar, Juguete.id)" class="btn btn-danger btn-sm float-end">Eliminar</button>
+        </td>
+        </tr>
+    </tbody>
+</table>
+
+<div *ngIf="ListJuguetes.length == 0" class="row mt-5">
+    <h5> No hay elementos para mostrar </h5>
+</div>
+  
+  <!-- Modal -->
+    <ng-template #ModalConfirmar let-modal>
+        <div class="modal-header">
+            <h4 class="modal-title">Eliminar Registro</h4>
+            <button type="button" class="btn" aria-label="Close" (click)="Cancelar()">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>Deseas Eliminar el Registro ?</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" ngbAutofocus class="btn btn-danger" (click)="EliminarJuguete()">Eliminar</button>
+          </div>
+    </ng-template>

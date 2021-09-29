@@ -1,0 +1,37 @@
+<h3>{{ Accion }} Juguete</h3>
+<h4>Los campos marcados con * son obligatorios.</h4>
+
+<form [formGroup]="AgregarJuguete" (ngSubmit)="AddOrEditJuguete()">
+    <br>
+    <div class="mb-3">
+        <label for="txtNombre" class="form-label">Nombre*</label>
+        <input formControlName="Nombre" type="text" class="form-control" id="txtNombre" autocomplete="off">
+        <span *ngIf="AgregarJuguete.get('Nombre')?.invalid && AgregarJuguete.get('Nombre')?.touched" class="text-danger">
+            El campo <strong>Nombre</strong> es requerido.
+        </span>
+    </div>
+    <div class="mb-3">
+        <label for="txtDescripcion" class="form-label">Descripción</label>
+        <input formControlName="Descripcion" type="text" class="form-control" id="txtDescripcion" autocomplete="off">
+    </div>
+    <div class="mb-3">
+        <label for="SelEdad" class="form-label">Restricción de Edad</label>
+        <input formControlName="Restriccion" type="number" class="form-control" id="txtRestriccion" autocomplete="off">
+    </div>
+    <div class="mb-3">
+        <label for="txtFabricante" class="form-label">Fabricante*</label>
+        <input formControlName="Fabricante" type="text" class="form-control" id="txtFabricante" autocomplete="off">
+        <span *ngIf="AgregarJuguete.get('Fabricante')?.invalid && AgregarJuguete.get('Fabricante')?.touched" class="text-danger">
+            El campo <strong>Fabricante</strong> es requerido.
+        </span>
+    </div>
+    <div class="mb-3">
+        <label for="txtPrecio" class="form-label">Precio*</label>
+        <input formControlName="Precio" type="number" class="form-control" id="txtPrecio" autocomplete="off">
+        <span *ngIf="AgregarJuguete.get('Precio')?.invalid && AgregarJuguete.get('Precio')?.touched" class="text-danger">
+            El campo <strong>Precio</strong> es requerido.
+        </span>
+    </div>
+    <button type="submit" [disabled]="AgregarJuguete.invalid" class="btn btn-success float-end">Guardar</button>
+    <button type="button" routerLink="/" class="btn btn-secondary">Volver</button>
+</form>
