@@ -1,0 +1,46 @@
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\appsettings.json
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\ExamenPite Servicios.exe
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\ExamenPite Servicios.deps.json
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\ExamenPite Servicios.runtimeconfig.json
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\ExamenPite Servicios.runtimeconfig.dev.json
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\ExamenPite Servicios.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\ref\ExamenPite Servicios.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\ExamenPite Servicios.pdb
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\runtimes\win7-x64\native\sni.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\runtimes\win7-x86\native\sni.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\bin\Debug\net5.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.csproj.AssemblyReference.cache
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.AssemblyInfoInputs.cache
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.AssemblyInfo.cs
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.csproj.CoreCompileInputs.cache
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\staticwebassets\ExamenPite Servicios.StaticWebAssets.Manifest.cache
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\staticwebassets\ExamenPite Servicios.StaticWebAssets.xml
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\scopedcss\bundle\ExamenPite Servicios.styles.css
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.RazorTargetAssemblyInfo.cache
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.csproj.CopyComplete
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ref\ExamenPite Servicios.dll
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.pdb
+C:\Users\ALAN\Desktop\ProyectoPruebaAspiria\ProyectoPruebaOK\ProyectoPrueba\Aspiria\Aspiria\obj\Debug\net5.0\ExamenPite Servicios.genruntimeconfig.cache
